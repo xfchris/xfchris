@@ -22,7 +22,7 @@ I am a systems engineer whose purpose is to solve problems through the use of te
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-F52C21?style=flat-square&logo=laravel&logoColor=white" />
 
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-F7DF1?style=flat-square&logo=node.js&logoColor=black" />
-  <img alt="Express.js" src="https://img.shields.io/badge/Express-FFFFFF?style=flat-square&logo=express&logoColor=black" />
+  <img alt="Express.js" src="https://img.shields.io/badge/Express-DDD?style=flat-square&logo=express&logoColor=black" />
   
   <img alt="GO" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img alt="GOFiber" src="https://img.shields.io/badge/goFiber-8BC0D0?style=flat-square&logo=go&logoColor=white" />
@@ -36,7 +36,7 @@ I am a systems engineer whose purpose is to solve problems through the use of te
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-232F3E?style=flat-square&logo=react&logoColor=8BC0D0" />
 
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-FFF?style=flat-square&logo=next.js&logoColor=black" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-DDD?style=flat-square&logo=next.js&logoColor=black" />
   <img alt="PWA" src="https://img.shields.io/badge/Progressive Web Applications-8BC0D0?style=flat-square&logo=PWA&logoColor=black" />
 
 </p>
