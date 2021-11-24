@@ -48,8 +48,5 @@ I am a systems engineer whose purpose is to solve problems through the use of te
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
-## &nbsp;&nbsp;My stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xfchris)](https://github.com/anuraghazra/github-readme-stats)
-
 ## &nbsp;&nbsp;Contact:
 - :bust_in_silhouette: <a href="https://www.linkedin.com/in/christian-valencia-cuero/">LinkedIn Profile</a>
