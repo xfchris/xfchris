@@ -1,9 +1,8 @@
 <div align="center">
-  
-# Hi there 👋, I'm Christian
-<br/>
 I am a systems engineer whose purpose is to solve problems through the use of technology. I have great analytical skills, achievement orientation, excellence orientation, individual and team work capacity, high level of responsibility and high capacity for abstraction.
-
+<br/>
+<br/>
+  
 ## Some technologies I use
 
 <p>☁️ Infrastructure</p>
@@ -50,6 +49,7 @@ I am a systems engineer whose purpose is to solve problems through the use of te
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 </p>
+<br/>
 
 ## Contact
 :bust_in_silhouette: <br/> <a href="https://www.linkedin.com/in/christian-valencia-cuero/">LinkedIn Profile</a>
