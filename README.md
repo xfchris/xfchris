@@ -50,7 +50,4 @@ I am a systems engineer whose purpose is to solve problems through the use of te
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 </p>
-
-## Contact
-:bust_in_silhouette: <br/> <a href="https://www.linkedin.com/in/christian-valencia-cuero/">LinkedIn Profile</a>
 </div>
