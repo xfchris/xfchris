@@ -9,7 +9,7 @@ I am a systems engineer whose purpose is to solve problems through the use of te
 <p>
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-F52C21?style=flat-square&logo=googlecloud&logoColor=white" />
   <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img alt="Digital Ocean" src="https://img.shields.io/badge/-Digital_Ocean-008bcf?style=flat-square&logo=digitalocean&logoColor=white" />
+  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-DDD?style=flat-square&logo=cloudflare" />
 </p>
 <p>Database</p>
 <p>
