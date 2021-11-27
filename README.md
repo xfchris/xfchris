@@ -1,9 +1,12 @@
 <div align="center">
+  
+# Hi there 👋, I'm Christian
+<br/>
 I am a systems engineer whose purpose is to solve problems through the use of technology. I have great analytical skills, achievement orientation, excellence orientation, individual and team work capacity, high level of responsibility and high capacity for abstraction.
 
 ## Some technologies I use
 
-<p>☁️ Infraestructure</p>
+<p>☁️ Infrastructure</p>
 <p>
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-F52C21?style=flat-square&logo=googlecloud&logoColor=white" />
   <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
@@ -13,6 +16,7 @@ I am a systems engineer whose purpose is to solve problems through the use of te
 <p>
   <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-00758f?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-008bcf?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-DDD?style=flat-square&logo=mongodb&logoColor=" />
   <img alt="Dynamodb" src="https://img.shields.io/badge/DynamoDB-00758f?style=flat-square&logo=sql&logoColor=white" />
 </p>
 <p>🧙‍♂️ Backend</p>
@@ -48,5 +52,5 @@ I am a systems engineer whose purpose is to solve problems through the use of te
 </p>
 
 ## Contact
-:bust_in_silhouette: <a href="https://www.linkedin.com/in/christian-valencia-cuero/">LinkedIn Profile</a>
+:bust_in_silhouette: <br/> <a href="https://www.linkedin.com/in/christian-valencia-cuero/">LinkedIn Profile</a>
 </div>
