@@ -46,10 +46,10 @@ I am a systems engineer whose purpose is to solve problems through the use of te
 <p>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS_Code-1F7ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="GIT" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-DDD?style=flat-square&logo=bitbucket&logoColor=blue" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 </p>
-<br/>
 
 ## Contact
 :bust_in_silhouette: <br/> <a href="https://www.linkedin.com/in/christian-valencia-cuero/">LinkedIn Profile</a>
