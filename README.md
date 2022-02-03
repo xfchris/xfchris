@@ -38,7 +38,7 @@ I am a systems engineer whose purpose is to solve problems through the use of te
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-232F3E?style=flat-square&logo=react&logoColor=8BC0D0" />
 
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-DDD?style=flat-square&logo=next.js&logoColor=black" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vue.js" />
   <img alt="PWA" src="https://img.shields.io/badge/Progressive Web App-8BC0D0?style=flat-square&logo=PWA&logoColor=black" />
 
 </p>
